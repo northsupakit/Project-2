@@ -1,0 +1,6 @@
+/Users/northy/sum_harness_instructional/build/CMakeFiles/benchmark.dir
+/Users/northy/sum_harness_instructional/build/CMakeFiles/sum_direct.dir
+/Users/northy/sum_harness_instructional/build/CMakeFiles/sum_vector.dir
+/Users/northy/sum_harness_instructional/build/CMakeFiles/sum_indirect.dir
+/Users/northy/sum_harness_instructional/build/CMakeFiles/edit_cache.dir
+/Users/northy/sum_harness_instructional/build/CMakeFiles/rebuild_cache.dir
